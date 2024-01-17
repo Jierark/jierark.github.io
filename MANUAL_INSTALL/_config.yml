@@ -1,0 +1,105 @@
+# User Config
+# ===========
+# fill/change these fields to match your own.
+
+# Identity
+# --------
+
+title:       #TODO the title of the blog
+description: #TODO short tagline (should not longer than 10 words)
+
+logo:  "/assets/img/north-pole.png"   #TODO 256x256
+cover: "/assets/img/tired-bear.png"   #TODO 1200x630
+
+baseurl: #TODO leave blank if it is the top path, else use /path/to/sub/dir
+url:     #TODO the url without path, don't forget https://
+
+owner:  polarbear   #TODO name of the owner of this blog
+rights: All Right Reserved
+
+
+# Social & Sharing
+# ----------------
+
+google:
+  analytics:
+  verification:
+
+facebook:
+  username:
+  app_id:
+
+twitter:
+  username:
+  large_img: sometimes
+
+disqus:
+  username:
+
+
+# Content Format
+# --------------
+
+timezone: Asia/Bangkok
+mathjax:  true
+
+
+
+# ----------------------------------------------------------------------------
+
+# Engine Config
+# =============
+# you shouldn't change this unless you really know what you're doing.
+
+theme: jekyll-theme-polar
+
+permalink: date
+
+collections:
+  projects:
+    output: true
+  docs:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: doc
+
+pagination:
+  enabled: true
+  per_page: 10
+  sort_reverse: true
+  permalink: /page:num.html
+
+sass:
+  sass_dir: "_sass/"
+  style: compressed
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CONTRIBUTING.md
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+empty_array: []
