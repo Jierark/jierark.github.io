@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<!--TODO: change this to be more comprehensive-->
 # About Me
 Hey there 👋. I'm Joe. I'm currently a senior at MIT, majoring in Computer Science and Engineering.
 

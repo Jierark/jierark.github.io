@@ -6,7 +6,7 @@
 # --------
 
 title: Jierark.blog
-description: Powered by Polar Theme
+description:
 
 logo:  "/assets/img/north-pole.png"
 cover: "/assets/img/tired-bear.png"
@@ -34,7 +34,7 @@ twitter:
   large_img: sometimes
 
 github:
-  username:
+  username: Jierark
 
 
 disqus:
@@ -44,7 +44,7 @@ disqus:
 # Content Format
 # --------------
 
-timezone: Asia/Bangkok
+timezone: America/New York
 mathjax:  true
 
 
