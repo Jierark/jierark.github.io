@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "JoeJoe's Strange Excursion"
+date: 2024-04-01
 ---
 A few weeks ago, some of my friends approached me and asked if I would be interesting in going to Puerto Rico for Spring Break. I told them I would think it over. I had not travelled outside the US mainland for a long time, so I was initially hesitant. But, after giving it some thought and some encouragment from some others, I figured why not? So we booked our tickets and an airbnb for a 6 day vacation to Puerto Rico.
 

@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "A wild post appears"
+date: 2024-01-08
 ---
 New year new me, and all that. It's crazy to think that its already 2024, and in a few months, I'll be finishing up my undergraduate life at MIT. Still haven't sorted out exactly what I'm planning to do with my future career, but I'm hoping that I can take another year to pursue the MEng program.
 

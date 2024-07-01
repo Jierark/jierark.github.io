@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "This guy Graduated from MIT"
+date: 2024-06-03
 ---
 
 May 31, 2024 is when I officially graduated from MIT. These last four years have been an interesting ride through college, with many highlights and pitfalls. I've met many wonderful people, learned many new and unique things, and gone through basically hell and back, mutliple times. I wanted to write this to reflect on my time at MIT and think about the good, the bad, and the ugly.
