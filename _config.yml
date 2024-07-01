@@ -5,16 +5,17 @@
 # Identity
 # --------
 
-title: A New Jekyll Site
-description: Powered by Polar Theme
+title: Jierark.blog
+email: dudgns0625@gmail.com
+description:
 
 logo:  "/assets/img/north-pole.png"
 cover: "/assets/img/tired-bear.png"
 
-baseurl:
-url:
+baseurl: 
+url: 
 
-owner: polarbear
+owner: Joseph Kim
 rights: All Right Reserved
 
 
@@ -33,6 +34,10 @@ twitter:
   username:
   large_img: sometimes
 
+github:
+  username: Jierark
+
+
 disqus:
   username:
 
@@ -40,7 +45,7 @@ disqus:
 # Content Format
 # --------------
 
-timezone: Asia/Bangkok
+timezone: America/New York
 mathjax:  true
 
 
