@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This guy Graduated from MIT"
+title: "This guy graduated from MIT"
 date: 2024-06-03
 ---
 
